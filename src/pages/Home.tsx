@@ -77,7 +77,7 @@ export default function Home({
               Find your next discovery.
             </h1>
             <p className="max-w-2xl mx-auto text-sm sm:text-base text-slate-200 leading-relaxed font-normal">
-              Search the City College Dublin Library catalogue, explore specialist databases, and access the support you need for your studies.
+              Search the City College Dublin Library eBook catalogue via Perlego.
             </p>
           </div>
 
