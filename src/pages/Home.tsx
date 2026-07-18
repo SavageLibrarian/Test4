@@ -166,7 +166,7 @@ export default function Home({
                   Library Catalogue
                 </h3>
                 <p className="text-sm text-slate-700 leading-relaxed mb-6 font-normal">
-                  Search books and e-books via Perlego.
+                  Search e-books via Perlego.
                 </p>
               </div>
               <div className="text-xs font-bold text-blue-700 group-hover:text-blue-900 flex items-center space-x-1">
