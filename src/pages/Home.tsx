@@ -147,7 +147,7 @@ export default function Home({
       <section className="bg-slate-50 border-b border-slate-200 py-16" id="home-quick-access">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="font-display font-bold text-2xl text-slate-900 mb-8 tracking-tight">
-            Quick access
+            Quick Access
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
