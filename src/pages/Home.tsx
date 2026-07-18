@@ -74,7 +74,7 @@ export default function Home({
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
           <div className="space-y-3">
             <h1 className="font-display font-bold text-4xl sm:text-5xl tracking-normal text-white leading-tight">
-              Find your next discovery.
+              Find Your Next Discovery.
             </h1>
             <p className="max-w-2xl mx-auto text-sm sm:text-base text-slate-200 leading-relaxed font-normal">
               Search the City College Dublin Library eBook catalogue via Perlego.
