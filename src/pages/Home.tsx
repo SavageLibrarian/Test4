@@ -302,11 +302,11 @@ export default function Home({
 
               <div className="space-y-1.5" aria-label="Library Weekly Opening Hours">
                 {[
-                  { day: 'Monday', hours: '09:00 - 17:00' },
-                  { day: 'Tuesday', hours: '09:00 - 17:00' },
-                  { day: 'Wednesday', hours: '09:00 - 17:00' },
-                  { day: 'Thursday', hours: '09:00 - 17:00' },
-                  { day: 'Friday', hours: '09:00 - 17:00' },
+                  { day: 'Monday', hours: '09:00am - 17:00pm' },
+                  { day: 'Tuesday', hours: '09:00am - 17:00pm' },
+                  { day: 'Wednesday', hours: '09:00am - 17:00pm' },
+                  { day: 'Thursday', hours: '09:00am - 17:00pm' },
+                  { day: 'Friday', hours: '09:00am - 17:00pm' },
                   { day: 'Saturday', hours: 'Closed', isClosed: true },
                   { day: 'Sunday', hours: 'Closed', isClosed: true },
                 ].map((item) => (
