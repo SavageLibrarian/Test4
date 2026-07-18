@@ -50,7 +50,7 @@ const FAQ_ITEMS: FAQItem[] = [
   {
     id: 'referencing',
     question: 'Where can I find help with Harvard referencing rules?',
-    answer: 'Referencing templates and live class recordings are available on the Library Workshops tab. For individual citation audit reviews, you can email library@citycollegedublin.ie to schedule a 1-to-1 virtual consult.'
+    answer: 'Harvard Referencing Handbook located in Writing & Research Supports section. For individual citation audit reviews, you can email library@citycollegedublin.ie to schedule a 1-to-1 virtual consult.'
   },
   {
     id: 'it-login',
